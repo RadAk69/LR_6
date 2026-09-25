@@ -1,0 +1,5 @@
+n = input("Введите ваше ФИО: ")
+string = n.split()
+b = " ".join(string)
+с = b.title()
+print(f"Добро пожаловать {с}")
