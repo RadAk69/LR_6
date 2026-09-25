@@ -1,0 +1,5 @@
+word = input("Введите произвольный текст: ")
+a = input("Введите одно слово: ")
+print(word.count(a))
+print(word.find(a))
+print(word.replace(a, ""))
